@@ -1,0 +1,111 @@
+ header{
+  background-color: black;
+  padding: 1% 2%;
+  text-align: center;
+}
+.header-image1{
+    width: 8%
+}
+.header-image2{
+  width: 92%
+}
+.icons{
+  padding:1rem;
+  color: white;
+}
+.icon-text1{
+  text-align: left;
+}
+
+.icon-text2{
+  text-align: right;
+}
+.scroll{
+  background-color: #ca2367;
+  padding: 0.2rem;
+}
+.scroll-image{
+  #max-width: 70%;
+}
+.container-fluid{
+  padding-top:1%;
+  padding-right: 0;
+}
+.date1{
+   margin-top: 1%;
+}
+.dates{
+  background-color: #001333;
+}
+.details{
+  background: linear-gradient( #303f9f,#45cafc);
+  border-radius: 3%;
+  padding :1rem ;
+
+}
+.news{
+
+  margin-top: -2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  color: white;
+}
+.academics{
+  background-color: #7e57c2 !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+}
+.administration{
+  background-color: #f44336 !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+}
+.admissions{
+  background-color: #212121 !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+}
+
+.research{
+  background-color: #00d3ee !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+
+}
+.facilities{
+  background-color: #d81b60 !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+}
+.information{
+  background-color: #01579b !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+}
+.alumni{
+  background-color: #04abd1 !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+}
+
+.activities{
+  background-color: #7e026f !important;
+  width: 100%;
+  box-shadow: 5px 3px #888888;
+
+}
+@media only screen and (max-width: 990px){
+     .boxes{
+       margin-top: 5% !important;
+     }
+}
+.footer{
+  background-color: #001333;
+  padding-top: 1.5rem;
+}
+.last1{
+ 
+ color: rgba(255, 255, 255, 0.6);
+ padding-top:  1.2rem;
+ margin-left: 4rem;
+}
